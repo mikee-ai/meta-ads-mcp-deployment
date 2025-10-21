@@ -20,15 +20,15 @@ The Meta Ads MCP Agent is an AI-powered interface for managing and optimizing Me
 ### One-Command Installation
 
 ```bash
-wget -O - https://raw.githubusercontent.com/YOUR_USERNAME/meta-ads-deployment/main/install.sh | bash
+wget -O - https://raw.githubusercontent.com/mikee-ai/meta-ads-mcp-deployment/master/install-fixed.sh | bash
 ```
 
 ### Manual Installation
 
 1. **Clone this repository**:
    ```bash
-   git clone https://github.com/YOUR_USERNAME/meta-ads-deployment.git
-   cd meta-ads-deployment
+   git clone https://github.com/mikee-ai/meta-ads-mcp-deployment.git
+   cd meta-ads-mcp-deployment
    ```
 
 2. **Run the installation script**:

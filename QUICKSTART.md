@@ -11,7 +11,7 @@
 
 ```bash
 # Download and run the automated installer
-wget https://raw.githubusercontent.com/YOUR_USERNAME/meta-ads-deployment/main/install.sh
+wget https://raw.githubusercontent.com/mikee-ai/meta-ads-mcp-deployment/master/install-fixed.sh
 chmod +x install.sh
 sudo ./install.sh
 ```
